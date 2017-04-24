@@ -5,3 +5,5 @@ WordPress plugin which allows you to toggle which post-types should get the Gene
 
 
 _Requires [CMB2](https://wordpress.org/plugins/cmb2/)_.
+
+![Settings Screenshot](https://raw.githubusercontent.com/zao-web/zao-toggle-genesis-scripts/screenshots/screenshot-1.png)
